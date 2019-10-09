@@ -1,0 +1,13 @@
+.checkbox {
+    margin: 10px;
+}
+
+.btn-style {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+}
